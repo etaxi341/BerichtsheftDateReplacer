@@ -8,7 +8,7 @@ I hated putting the dte and the number into the fields so i made this little too
 
 ## How to use?
 
-1. Download
+1. Download [here](https://github.com/etaxi341/BerichtsheftDateReplacer/releases)
 2. Prepare a "Berichtsheft" Template
 3. Replace the beginning date with ##FROMDATE##
 4. Replace the ending date with ##TODATE##
@@ -21,6 +21,13 @@ I hated putting the dte and the number into the fields so i made this little too
 11. Select how often you need a "Berichtsheft" (Weekly, every other week, ...)
 12. Press Generate
 13. Now there are numerated "Berichtshefte" in the folder where your template is located.
+
+## Example
+### Template
+![Template](https://i.imgur.com/I9w26XA.png)
+
+### Result
+![Result](https://i.imgur.com/kv0NahY.png)
 
 ## Why is the code so ugly?
 
