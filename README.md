@@ -9,7 +9,7 @@ I hated putting the date and the number into the fields so i made this little to
 ## How to use?
 
 1. Download [here](https://github.com/etaxi341/BerichtsheftDateReplacer/releases)
-2. Prepare a "Berichtsheft" Template
+2. Prepare a "Berichtsheft" Template (.docx format)
 3. Replace the beginning date with ##FROMDATE##
 4. Replace the ending date with ##TODATE##
 5. Replace the writing date with ##WRITEDATE##
