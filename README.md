@@ -4,7 +4,7 @@
 
 This is just a little 15 Minute funproject.
 In Germany every trainee has to write a "Berichtsheft" every one or two weeks.
-I hated putting the dte and the number into the fields so i made this little tool.
+I hated putting the date and the number into the fields so i made this little tool.
 
 ## How to use?
 
